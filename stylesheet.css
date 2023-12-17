@@ -1,0 +1,134 @@
+/* Adjust label styles to display on top */
+.form-label {
+    display: block;
+    margin-bottom: 0.5rem; 
+   color: #888c90;
+  }
+  
+
+  .form-control {
+    width: 100%;
+  }
+  
+  
+  .mb-3 {
+    margin-bottom: 1rem; 
+  }
+  
+  
+  .btn-primary {
+    background-color: #0CA2D0;;
+    color: #fff;
+    border: none;
+    padding: 0.8rem 12rem;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 0.25rem;
+    font-family: 'Open Sans', Arial, sans-serif;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0CA2D0;;
+  }
+  
+  .required {
+    color: red;
+    margin-left: 5px;
+  }
+
+  .noclick{
+    background-color: #0CA2D0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+  }
+
+  .logoimg {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .loginhs {
+    background-color: #f9f9f9;
+    padding: 20px; 
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+    font-family: 'Open sans', Arial, sans-serif;
+    padding: 20px 30px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 20px;
+  }
+
+  .forgotten{
+    color: #087090;
+    font-size: inherit;
+  }
+
+.sep {
+    width: calc(100% - 98px);
+    height: 1px;
+    margin: 22px 12px 22px 48px;
+    border-top: 1px solid rgba(136, 140, 144, 0.6);
+}
+.sepor { 
+    display: inline-block;
+    position: relative;
+    top: -15px;
+    width: 48px;
+    height: 24px;
+    background-color: white;
+    font-size: 20px;
+}
+
+
+.new-button {
+    background-color: #fff;
+    color: #0CA2D0;
+    border: .5px solid #0CA2D0;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    font-family: 'Open Sans', Arial, sans-serif;
+    margin-bottom: 1rem; 
+    width: 100%; 
+    font-weight: 500;
+  }
+  
+  
+  
+  .btn-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .whatisgp .gpqm {
+    background-image: url(https://www.hotschedules.com/hs/images/login-flow/help-filled.svg);
+    background-repeat: no-repeat;
+    cursor: pointer;
+  }
+
+  .gpqm {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin-right: 8px;
+    margin-top: -2px;
+    vertical-align: middle;
+  }
+
+  
